@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+This site was developed during the time I took PhD degree at the University of Liverpool.
+There will be so many items related to the coastal processes, modelling, and sediment transport deposited here.
+Feel free to contact me if you have further questions. 
